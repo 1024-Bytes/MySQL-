@@ -26,7 +26,7 @@ MySQL的安装：压缩包的话需要添加my.ini配置文件，客户端的安
 
 ### 字符串类型
 
- https://files.jb51.net/file_images/article/201512/20151216143801648.png?2015111614389 
+![img](http://a4.qpic.cn/psb?/V13HAV523S7hJj/CCzDahBdxbzMzMY1LcLhYwxPZFVyf8gC6lfP7jA6UF8!/m/dFMBAAAAAAAAnull&bo=hwIoAQAAAAADB44!&rf=photolist&t=5)
 
 注意： char 和 varchar 需要指定长度 
 
