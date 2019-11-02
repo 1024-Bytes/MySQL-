@@ -5,8 +5,7 @@
 数据库主要分为关系型数据库和非关系型数据库，MySQL（开源）一般用来做网站,存一些持久保存的数据，Redis一般用于缓存，MongoDB用于存储非关系型数据库结构，一般可以爬虫用。
 
 ## 数据库的操作原理
-
-<img src="C:\Users\win10\AppData\Roaming\Typora\typora-user-images\1572678548189.png" style="zoom:67%;" />
+![img](http://m.qpic.cn/psb?/V13HAV523S7hJj/VKiLy6k75WP0W*rSAxF3kYO8XFnU4NEiwB4oHlXI5P8!/b/dL8AAAAAAAAA&bo=kQQpAgAAAAADB5w!&rf=viewer_4)
 
 这是一种C-S架构模型，RDBMS-server可以直接管理数据库，MySQL就是一种RDBMS-server，浏览器和服务器之间通常通过http协议来通信，而上面的例子则通过SQL语句通信。
 
