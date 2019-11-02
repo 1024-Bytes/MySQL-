@@ -31,8 +31,7 @@ MySQL的安装：压缩包的话需要添加my.ini配置文件，客户端的安
 注意： char 和 varchar 需要指定长度 
 
 ### 时间日期类型
-
-https://files.jb51.net/file_images/article/201512/20151216143817755.png?20151116143826
+![img](http://a1.qpic.cn/psb?/V13HAV523S7hJj/joz9aeNvTkaP4aY0KuBkU0T*t6N0uD6Vgf2P5uo*3AQ!/m/dFQBAAAAAAAAnull&bo=iwKZAAAAAAADBzI!&rf=photolist&t=5)
 
 ### 特殊类型
 
