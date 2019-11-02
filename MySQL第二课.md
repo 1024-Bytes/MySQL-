@@ -4,7 +4,7 @@ MySQL的安装：压缩包的话需要添加my.ini配置文件，客户端的安
 
 ## 1.数据表的导入
 
-![1572681399808](C:\Users\win10\AppData\Roaming\Typora\typora-user-images\1572681399808.png)
+![img](http://a2.qpic.cn/psb?/V13HAV523S7hJj/F2.ChO2Ufj2KffTa6ImhZwQkqKv5w9FIlsZgZHgh06w!/c/dE0BAAAAAAAA&ek=1&kp=1&pt=0&bo=sARDAwAAAAADF8Y!&tl=1&vuin=2362846077&tm=1572696000&sce=60-2-2&rf=0-0)
 
 ![1572681642540](C:\Users\win10\AppData\Roaming\Typora\typora-user-images\1572681642540.png)
 
