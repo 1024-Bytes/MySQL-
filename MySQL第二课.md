@@ -22,7 +22,7 @@ MySQL的安装：压缩包的话需要添加my.ini配置文件，客户端的安
 
 ### 数值类型
 
- ![https://files.jb51.net/file_images/article/201512/20151216143742150.png?20151116143751](https://files.jb51.net/file_images/article/201512/20151216143742150.png?20151116143751) 
+![img](http://m.qpic.cn/psb?/V13HAV523S7hJj/nJ.cQlGvyYe0356dGtL2HHV9knfs2dvUgZv7HbQSV8Y!/b/dLYAAAAAAAAA&bo=jQIDAQAAAAADB68!&rf=viewer_4)
 
 ### 字符串类型
 
