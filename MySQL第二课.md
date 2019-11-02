@@ -22,17 +22,17 @@ MySQL的安装：压缩包的话需要添加my.ini配置文件，客户端的安
 
 ### 数值类型
 
-  ![](C:\Users\win10\Desktop\数值类型.png)
+https://files.jb51.net/file_images/article/201512/20151216143742150.png?20151116143751
 
 ### 字符串类型
 
-![字符串类型](C:\Users\win10\Desktop\字符串类型.png)
+ https://files.jb51.net/file_images/article/201512/20151216143801648.png?2015111614389 
 
 注意： char 和 varchar 需要指定长度 
 
 ### 时间日期类型
 
-![](C:\Users\win10\Desktop\时间日期类型.png)
+https://files.jb51.net/file_images/article/201512/20151216143817755.png?20151116143826
 
 ### 特殊类型
 
