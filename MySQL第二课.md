@@ -5,8 +5,7 @@ MySQL的安装：压缩包的话需要添加my.ini配置文件，客户端的安
 ## 1.数据表的导入
 
 ![img](http://a2.qpic.cn/psb?/V13HAV523S7hJj/F2.ChO2Ufj2KffTa6ImhZwQkqKv5w9FIlsZgZHgh06w!/c/dE0BAAAAAAAA&ek=1&kp=1&pt=0&bo=sARDAwAAAAADF8Y!&tl=1&vuin=2362846077&tm=1572696000&sce=60-2-2&rf=0-0)
-
-![img](http://a4.qpic.cn/psb?/V13HAV523S7hJj/wsp*F2EcLnLhRO6PchHAVbMzlOLwByqYPYCgupBF8xk!/m/dFMBAAAAAAAAnull&bo=sARDAwAAAAADB9Y!&rf=photolist&t=5)
+![img](http://m.qpic.cn/psb?/V13HAV523S7hJj/wsp*F2EcLnLhRO6PchHAVbMzlOLwByqYPYCgupBF8xk!/b/dFMBAAAAAAAA&bo=sARDAwAAAAADF8Y!&rf=viewer_4)
 
 点击连接，选择MySQL，输入密码登陆，点击确定建立与MySQL数据库的连接
 
