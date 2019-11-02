@@ -6,15 +6,15 @@ MySQL的安装：压缩包的话需要添加my.ini配置文件，客户端的安
 
 ![img](http://a2.qpic.cn/psb?/V13HAV523S7hJj/F2.ChO2Ufj2KffTa6ImhZwQkqKv5w9FIlsZgZHgh06w!/c/dE0BAAAAAAAA&ek=1&kp=1&pt=0&bo=sARDAwAAAAADF8Y!&tl=1&vuin=2362846077&tm=1572696000&sce=60-2-2&rf=0-0)
 
-![1572681642540](C:\Users\win10\AppData\Roaming\Typora\typora-user-images\1572681642540.png)
+![img](http://a4.qpic.cn/psb?/V13HAV523S7hJj/wsp*F2EcLnLhRO6PchHAVbMzlOLwByqYPYCgupBF8xk!/m/dFMBAAAAAAAAnull&bo=sARDAwAAAAADB9Y!&rf=photolist&t=5)
 
 点击连接，选择MySQL，输入密码登陆，点击确定建立与MySQL数据库的连接
 
-![1572681800269](C:\Users\win10\AppData\Roaming\Typora\typora-user-images\1572681800269.png)
+![img](http://m.qpic.cn/psb?/V13HAV523S7hJj/HBof2FQhAgToHOTrlV9psrpjQyAk.TToZT*vZKFtsy0!/b/dFQBAAAAAAAA&bo=sARDAwAAAAADF8Y!&rf=viewer_4)
 
 右键点击建立的连接，选择新建数据库或从已有的数据库中选择一个，这里注意建立新数据库时字符集要选择utf8，排列顺序选择utf8_general_ci
 
-![1572682205652](C:\Users\win10\AppData\Roaming\Typora\typora-user-images\1572682205652.png)
+![img](http://m.qpic.cn/psb?/V13HAV523S7hJj/Ht7MTJ6AikHVxyZfmUfdBpNk8ws9xpHrZ*rMcpBv4as!/b/dLYAAAAAAAAA&bo=sARDAwAAAAADF8Y!&rf=viewer_4)
 
 打开数据库，右键点击表，选择导入向导，选择相应的类型导入即可，注意编码要使用UTF-8，每一列的类型选择以够用省内存为标准
 
